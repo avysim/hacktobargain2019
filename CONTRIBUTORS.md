@@ -24,3 +24,8 @@
 - Bio: Dabbler
 - GitHub: [curacat](https://github.com/curacat)
 
+#### Name: [avysim](https://github.com/avysim)
+- Place: Sydney, Australia
+- Bio: Learning git
+- GitHub: [avysim](https://github.com/avysim)
+
